@@ -1,0 +1,81 @@
+body{
+	font-size: 16px;
+	font-family: Georgia, serif;
+	background: #f4dbd8;
+}
+#header-nav{
+	background-color: #2A0800;
+	border-radius: 0;
+    border: 0;
+}
+#header-nav button {
+    margin-top: 22px;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #C09891;
+}
+.navbar-collapse {
+    border-top: 0;
+}
+.navbar-brand, .navbar-nav li a {
+    line-height: 80px;
+    height: 80px;
+    padding-top: 0;
+}
+.navbar-brand h1{
+	font-weight: bold;
+	font-family: garamond;
+	color:floralwhite;
+}
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #2A0800;
+}
+#nav-list {
+    background-color: #C09891;
+}
+
+#nav-list a {
+    /*text-align: center;*/
+    font-weight: bolder;
+    color: #2A0800;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #2A0800;
+    background-color: BEA8A7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #2A0800;
+}
+
+
+#main-content {
+    width: 90%;
+    margin-bottom: 30px;
+}
+#main-content h2{
+	font-weight: bolder;
+	font-size:2.5em;
+	color:#2A0800;
+	margin-bottom: 50px;
+}
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+#main-content a{
+	color:#775144;
+}
+#main-content a:hover{
+	text-decoration: none;
+}
+#chicken-tile, #beef-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #BEA8A7;
+    margin-bottom: 50px;
+    box-shadow: 0 0 40px #C09891;
+}
