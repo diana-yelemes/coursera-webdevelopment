@@ -14,6 +14,9 @@ body{
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: #C09891;
 }
+.navbar-toggle{
+    background-color: #BEA8A7;
+}
 .navbar-collapse {
     border-top: 0;
 }
@@ -36,7 +39,6 @@ body{
 }
 
 #nav-list a {
-    /*text-align: center;*/
     font-weight: bolder;
     font-size: 1.2em;
     color: #2A0800;
