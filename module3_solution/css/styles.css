@@ -38,13 +38,14 @@ body{
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #2A0800;
     font-size: 1.2em;
+    color: #2A0800;
+    background-color: #BEA8A7;
 }
 
 #nav-list a:hover {
     color: #2A0800;
-    background-color: BEA8A7;
+    background-color: #C09891;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #2A0800;
